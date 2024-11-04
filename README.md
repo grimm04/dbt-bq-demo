@@ -2,6 +2,11 @@ Welcome to your new dbt project!
 
 ### Using the starter project
 
+- make project for bigquery https://console.cloud.google.com/iam-admin
+- register on https://cloud.getdbt.com/
+- import json conf from console to connection on getdbt
+- make a project 
+
 Try running the following commands:
 - dbt run
 - dbt test
