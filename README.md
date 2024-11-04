@@ -9,7 +9,8 @@ Welcome to your new dbt project!
 
 Try running the following commands:
 - dbt run
-- dbt test
+- dbt run -s filename
+- dbt test -s filename
 
 
 ### Resources:
